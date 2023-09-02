@@ -4,5 +4,7 @@ name: Kurp
 type: shield
 url: https://github.com/hazels-garage/kurp
 requires: [pro_micro]
+exposes: [i2c_oled]
 features:
   - keys
+  - display
