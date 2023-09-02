@@ -1,0 +1,8 @@
+file_format: "1"
+id: kurp
+name: Kurp
+type: shield
+url: https://github.com/hazels-garage/kurp
+requires: [pro_micro]
+features:
+  - keys
